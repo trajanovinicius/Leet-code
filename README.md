@@ -1,2 +1,3 @@
 # Leet-code
-Aqui está armazenado todos os exercícios do meu leet-code
+
+O objetivo é armazenar todos os exercícios de leet-code realizados por mim, neste repositório
